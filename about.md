@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+会社名（和名） | アイキャピタル合同会社
+会社名（英名） | AI Capital LLC.
+所在地 | 東京都港区南青山2-2-15 ウィン青山942
+設立日 | 2018/01/05
+資本金 | 500万円
+事業内容 | ベンチャー企業への投資
