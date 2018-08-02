@@ -17,7 +17,7 @@ title: アイキャピタル合同会社
 description: >- # this means to ignore newlines until "baseurl:"
   AIを駆使したベンチャー投資をアイキャピタル合同会社は行っています。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://a-i.capital" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.a-i.capital" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
