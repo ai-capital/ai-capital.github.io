@@ -4,7 +4,7 @@ title: 投資先
 permalink: /portfolio/
 ---
 
-会社名 | URL | 事業内容
----- | ---- | ----
-Huapay合同会社 | [https://www.huapay.jp](https://www.huapay.jp) | FinTech、越境EC
-設立準備中 |  | AdTech、バーティカルメディア
+会社名 | 事業内容
+---- | ----
+[Huapay合同会社](https://www.huapay.jp){:target="____blank", :rel="noopener"} | FinTech、越境EC
+設立準備中 | AdTech、バーティカルメディア
