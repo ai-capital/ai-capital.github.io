@@ -2,33 +2,19 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<h1>AI Capitalとは</h1>
 
-  {{ content }}
+<p>AI Capitalは、世界を置き去りにする覚悟を持った起業家に対して投資を行う、Angel Investor（エンジェル投資家）です。</p>
+<p>投資額は数十万円〜数百万円程度です。私達は投資先に積極的に関わります。最も強いのはプロダクト開発で、プロトタイプであれば私達がすべて開発します。</p>
+<p>短期間で急成長することを目的としている起業家は、投資対象としていません。変革、下剋上を起こしたい起業家を投資対象としています。</p>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+<h1>起業家へ</h1>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
-
-</div>
+<p>私達は起業家を常に探しています。まずは気軽に都内でランチミーティングでもしましょう。あなたの世界観や未来予想、現状認識をざっくばらんにお聞かせください。</p>
+<p>コンタクト方法は何でも構いません。</p>
+<ul>
+    <li><a href="mailto:deraru@gmail.com">代表者メール</a></li>
+    <li><a href="https://twitter.com/deraru" target="_blank" rel="noopener">代表者Twitter</a></li>
+    <li><a href="https://facebook.com/rui.onodera" target="_blank" rel="noopener">代表者Facebook</a></li>
+</ul>
+<p>お話を聞けることを楽しみにしています！</p>
