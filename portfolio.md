@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: 投資先
 permalink: /portfolio/
 ---
 
