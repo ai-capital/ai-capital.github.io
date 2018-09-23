@@ -6,4 +6,5 @@ permalink: /portfolio/
 
 会社名 | URL | 事業内容
 ---- | ---- | ----
-Huapay合同会社 | [https://www.huapay.jp](https://www.huapay.jp) | FinTech, 越境EC
+Huapay合同会社 | [https://www.huapay.jp](https://www.huapay.jp) | FinTech、越境EC
+設立準備中 |  | AdTech、バーティカルメディア
