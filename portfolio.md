@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 投資先
+image: "/assets/images/logo.png"
+date: 2018-08-15T00:00:00+09:00
 permalink: /portfolio/
 ---
 

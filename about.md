@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 会社概要
+image: "/assets/images/logo.png"
+date: 2018-01-05T00:00:00+09:00
 permalink: /about/
 ---
 
