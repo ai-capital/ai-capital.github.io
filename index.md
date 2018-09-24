@@ -4,4 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 image: "/assets/images/logo.png"
+date: 2018-01-05T00:00:00+09:00
 ---
