@@ -24,6 +24,13 @@ lang: "ja"
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+facebook:
+  app_id: 251200815580141
+  # publisher: 1234
+  admins: 100000686899395
+logo: "/assets/images/logo.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
