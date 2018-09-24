@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 会社概要
+description: アイキャピタル合同会社の会社概要です。
 image: "/assets/images/logo.png"
 date: 2018-01-05T00:00:00+09:00
 permalink: /about/
